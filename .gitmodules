@@ -1,0 +1,3 @@
+[submodule "cornea-detection"]
+	path = cornea-detection
+	url = https://github.com/tobydriscoll/cornea-detection.git
