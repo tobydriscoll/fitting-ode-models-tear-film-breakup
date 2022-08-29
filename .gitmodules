@@ -1,3 +1,6 @@
 [submodule "cornea-detection"]
 	path = cornea-detection
 	url = https://github.com/tobydriscoll/cornea-detection.git
+[submodule "TBUFitting.jl"]
+	path = TBUFitting.jl
+	url = https://github.com/tobydriscoll/TBUFitting.jl
